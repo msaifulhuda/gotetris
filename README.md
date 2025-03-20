@@ -19,7 +19,7 @@ To install and run GoTetris, follow these steps:
     ```
 2. Navigate to the project directory:
     ```sh
-    cd GoTetris
+    cd gotetris
     ```
 3. Install the dependencies:
     ```sh
